@@ -44,8 +44,8 @@ export const config = {
       openUrl: "https://wangxinleo.cn"
     }, 
     {
-      name: "老婆1", 
-      id: "oRjVs5k-gFlWyNV4IUYUDdwuV6Qg",
+      name: "蓉蓉小仙女", 
+      id: "oRjVs5jv5ooPoLu9YZoXmkUN39sk",
       useTemplateId: "NLhJzlJwyT0nD2DRI05NBFFKN3s7uDlfU_DMt79zHCI",
       province: "安徽",
       city: "淮南",
@@ -80,9 +80,9 @@ export const config = {
   CALLBACK_USERS: [
     {
       // 一般都填自己
-      name: "自己",
+      name: "战帅",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ohx12OO6VskYv03Kuf43ywIZVRM4puXhk",
+      id: "oRjVs5k-gFlWyNV4IUYUDdwuV6Qg",
     }, 
   ],
     
@@ -106,10 +106,10 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "老婆", "year": "1996", "date": "09-02"},
-    {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
-    {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
-    {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
+    {"type": "生日", "name": "蓉蓉", "year": "1996", "date": "09-30"},
+    {"type": "节日", "name": "中秋节", "year": "2020", "date": "09-10"},
+    {"type": "生日", "name": "从从", "year": "1996", "date": "09-31"},
+    {"type": "节日", "name": "教师节", "year": "2021", "date": "09-10"},
   ],
 
   /**
