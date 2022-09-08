@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oRjVs5k-gFlWyNV4IUYUDdwuV6Qg",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "prClvENH-V3RC6NH9F_HJ0s4EFLDD5iyoNGuawNPFq0",
+      useTemplateId: "oRjVs5sjO30Ll55EoaEJd1ox06qY",
       // 所在省份
       province: "安徽",
       // 所在城市
@@ -46,7 +46,7 @@ export const config = {
     {
       name: "蓉蓉小仙女", 
       id: "oRjVs5k-gFlWyNV4IUYUDdwuV6Qg",
-      useTemplateId: "S-fw7zlxSulcm0u3x3HfTGF9bsCg07tmDOQfsS6yL50",
+      useTemplateId: "-tECiR8UHPfGEVLogdomtcP7QTWjGdSSnQCnl9bCNR0",
       province: "安徽",
       city: "淮南",
       openUrl: "https://wangxinleo.cn"
