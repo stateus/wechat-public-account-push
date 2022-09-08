@@ -46,7 +46,7 @@ export const config = {
     {
       name: "蓉蓉小仙女", 
       id: "oRjVs5k-gFlWyNV4IUYUDdwuV6Qg",
-      useTemplateId: "-tECiR8UHPfGEVLogdomtcP7QTWjGdSSnQCnl9bCNR0",
+      useTemplateId: "iyPQHQ6WZRQ1Z3CDjfgUFXWSom1BeEBRBV1xSJVGPrw",
       province: "安徽",
       city: "淮南",
       openUrl: "https://wangxinleo.cn"
