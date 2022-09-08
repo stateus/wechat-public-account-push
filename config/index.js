@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oRjVs5k-gFlWyNV4IUYUDdwuV6Qg",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "9O7ZpI5VUWbmSmx6ViiV3ENUYkC44k8Q-j_ovH3asaQ",
+      useTemplateId: "BZNdG3LD2KQ9grv28aK_KSxo0ytdyesTU5ZCZxIPfBs",
       // 所在省份
       province: "安徽",
       // 所在城市
@@ -46,7 +46,7 @@ export const config = {
     {
       name: "蓉蓉小仙女", 
       id: "oRjVs5k-gFlWyNV4IUYUDdwuV6Qg",
-      useTemplateId: "04bv_Pu7U96C7RDZKh07UF_ExBYLRFfa4dFtjDqFtg0",
+      useTemplateId: "BZNdG3LD2KQ9grv28aK_KSxo0ytdyesTU5ZCZxIPfBs",
       province: "安徽",
       city: "淮南",
       openUrl: "https://wangxinleo.cn"
@@ -74,7 +74,7 @@ export const config = {
    */
 
   // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "04bv_Pu7U96C7RDZKh07UF_ExBYLRFfa4dFtjDqFtg0",
+  CALLBACK_TEMPLATE_ID: "BZNdG3LD2KQ9grv28aK_KSxo0ytdyesTU5ZCZxIPfBs",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
