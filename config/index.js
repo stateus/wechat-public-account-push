@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oRjVs5k-gFlWyNV4IUYUDdwuV6Qg",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "BZNdG3LD2KQ9grv28aK_KSxo0ytdyesTU5ZCZxIPfBs",
+      useTemplateId: "prClvENH-V3RC6NH9F_HJ0s4EFLDD5iyoNGuawNPFq0",
       // 所在省份
       province: "安徽",
       // 所在城市
@@ -46,7 +46,7 @@ export const config = {
     {
       name: "蓉蓉小仙女", 
       id: "oRjVs5k-gFlWyNV4IUYUDdwuV6Qg",
-      useTemplateId: "BZNdG3LD2KQ9grv28aK_KSxo0ytdyesTU5ZCZxIPfBs",
+      useTemplateId: "S-fw7zlxSulcm0u3x3HfTGF9bsCg07tmDOQfsS6yL50",
       province: "安徽",
       city: "淮南",
       openUrl: "https://wangxinleo.cn"
@@ -74,7 +74,7 @@ export const config = {
    */
 
   // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "BZNdG3LD2KQ9grv28aK_KSxo0ytdyesTU5ZCZxIPfBs",
+  CALLBACK_TEMPLATE_ID: "",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
@@ -108,7 +108,7 @@ export const config = {
   FESTIVALS: [
     {"type": "生日", "name": "蓉蓉", "year": "1996", "date": "09-30"},
     {"type": "节日", "name": "中秋节", "year": "2020", "date": "09-10"},
-    {"type": "生日", "name": "从从", "year": "1996", "date": "09-31"},
+    {"type": "生日", "name": "从从", "year": "1996", "date": "05-03"},
     {"type": "节日", "name": "教师节", "year": "2021", "date": "09-10"},
   ],
 
@@ -129,9 +129,9 @@ export const config = {
     // 认识的日子
     {"keyword": "love_day", date: "2016-09-01"},
     // 相处的时间
-    {"keyword": "marry_day", date: "2022-08-30"},
+    {"keyword": "marry_day", date: "2022-08-31"},
     // 退伍日, 不用可以删掉
-    {"keyword": "ex_day", date: "2022-08-31"},
+    {"keyword": "ex_day", date: "2022-08-30"},
     // sakana日
     // {"keyword": "sakana_day", date: "2022-01-06"},
     // ... 
