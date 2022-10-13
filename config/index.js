@@ -60,12 +60,12 @@ export const config = {
       openUrl: "https://wangxinleo.cn"
     }, 
     {
-      name: "老婆3", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
+      name: "彤彤", 
+      id: "oRjVs5qjVC924yA--h3UzwuGwJDo",
+      useTemplateId: "Xr7nZBbcebfQUkQ-VIMbMCqpMEiquJ-RjE5TRMYVFvo",
+      province: "安徽",
+      city: "淮南",
+      openUrl: "https://s.weibo.com/top/summary"
     }, 
   ],
 
@@ -74,10 +74,10 @@ export const config = {
    */
 
   // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "",
+  CALLBACK_TEMPLATE_ID: "Xr7nZBbcebfQUkQ-VIMbMCqpMEiquJ-RjE5TRMYVFvo",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
-  CALLBACK_USERS: [
+  CALLBACK_USERS: oRjVs5k-gFlWyNV4IUYUDdwuV6Qg
     {
       // 一般都填自己
       name: "战帅",
