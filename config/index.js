@@ -52,11 +52,11 @@ export const config = {
       openUrl: "https://s.weibo.com/top/summary"
     }, 
     {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
+      name: "战帅",
+      id: "oRjVs5k-gFlWyNV4IUYUDdwuV6Qg",
+      useTemplateId: "MBcGNXs4BNXAERwF0aa7Xa7m1MoCfZ86uihUmRQ0O0k	",
+      province: "安徽",
+      city: "淮南",
       openUrl: "https://wangxinleo.cn"
     }, 
     {
@@ -106,7 +106,7 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "蓉蓉", "year": "2001", "date": "06-24"},
+    {"type": "生日", "name": "战帅", "year": "2002", "date": "01-09"},
     {"type": "节日", "name": "中秋节", "year": "2020", "date": "09-10"},
     {"type": "生日", "name": "从从", "year": "2001", "date": "05-03"},
     {"type": "节日", "name": "教师节", "year": "2021", "date": "09-10"},
