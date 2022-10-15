@@ -44,12 +44,12 @@ export const config = {
       openUrl: "https://s.weibo.com/top/summary"
     }, 
     {
-      name: "蓉蓉小仙女", 
-      id: "oRjVs5jv5ooPoLu9YZoXmkUN39sk",
-      useTemplateId: "tGjoItFkfqRm18o8vt5Vm1_vX5QwURo-Kk0LNn3yV24",
-      province: "安徽",
-      city: "淮南",
-      openUrl: "https://s.weibo.com/top/summary"
+      name: "", 
+      id: "",
+      useTemplateId: "",
+      province: "",
+      city: "",
+      openUrl: ""
     }, 
     {
       name: "战帅",
